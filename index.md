@@ -1,7 +1,7 @@
 # DEHORS
 ### Court métrage - Script complet
 
-**Dernière mise à jour :** {{ site.time | date: "%Y-%m-%d %H:%M" }} (CEST)
+**Dernière mise à jour :** {{ site.time | date: "%Y-%m-%d %H:%M" }}
 
 ---
 
