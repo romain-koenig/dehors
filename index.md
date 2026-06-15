@@ -9,7 +9,7 @@
 
 *Il cherche ses clés. Poches de veste, poches de pantalon, sacoche. Re-poches de veste.*
 
-*Il pose sa sacoche par terre. Vide tout méthodiquement sur le paillasson. Clés de voiture — pas de voiture. Stylos, ticket de caisse, chewing-gum, carte de fidélité Monoprix. Pas de clés de maison.*
+*Il pose sa sacoche par terre. Vide tout méthodiquement sur le paillasson. Stylos, ticket de caisse, chewing-gum, carte de fidélité... Pas de clés de maison.*
 
 **LÉA** : Tu les as perdues ?
 
@@ -55,11 +55,7 @@
 
 *Il raccroche. Léa le fixe.*
 
-**LÉA** : Pourquoi t'as dit que j'étais aux toilettes ?
-
-**LUIGI** : Je l'ai pas dit cette fois.
-
-**LÉA** : T'as dit que je faisais mes devoirs.
+**LÉA** : Pourquoi t'as dit que je faisais mes devoirs ?
 
 **LUIGI** : Parce que "elle mange une pizza dehors parce que j'ai perdu les clés", ça passait moins bien.
 
@@ -75,7 +71,7 @@
 
 **LÉA** : On fait quoi ?
 
-**LUIGI** : On improvise.
+**LUIGI** : On va se faire un petit abri.
 
 **LÉA** : Non. On fait un truc bien.
 
@@ -94,7 +90,7 @@
 
 **LUIGI** : Où t'as appris ça ?
 
-**LÉA** : Dans le livre que tu m'as offert pour mon anniversaire. Le Copain des Bois.
+**LÉA** : Dans le livre que tu m'as offert pour mon anniversaire. Copain des Bois...
 
 **LUIGI** : ...Évidemment.
 
@@ -183,13 +179,13 @@
 
 *Luigi, rasé de frais, chemise propre, est assis sur le canapé. Léa, douchée, cheveux peignés, est à côté de lui. Ils regardent la télé. Trop droits. Trop calmes.*
 
-*Bruit d'une voiture dehors. Clé dans la serrure. La porte s'ouvre. La mère entre, pose ses sacs.*
+*Bruit d'une voiture dehors. Clé dans la serrure. La porte s'ouvre. La mère entre, pose son sac.*
 
 **LUIGI** : Ça s'est bien passé ?
 
 **LA MÈRE** *(enlevant son manteau)* : Ouais. Sauf Chantal, elle a dû repartir en cours de route. Son mari s'est enfermé dehors. *(elle lève les yeux au ciel)* Un grand bébé.
 
-**LUIGI** : ...Quel boulet.
+**LUIGI** : Ah oui... Quel boulet.
 
 *Silence.*
 
@@ -197,7 +193,9 @@
 
 *Leurs lèvres se pincent exactement au même moment.*
 
-*Side eye.*
+*Side eye géné entre eux.*
+
+*Luigi et Léa regardent droit devant eux de nouveau.*
 
 **FONDU AU NOIR.**
 
@@ -210,5 +208,5 @@
 *Durée estimée : 3 minutes sans générique*
 *Personnages : Luigi, Léa (9 ans), La Mère (voix + présence)*
 *Décors : extérieur maison pavillonnaire + jardin, salon*
-*Accessoires clés : vélo Tern avec siège enfant, bâche bleue, bambous, ficelle, brasero, thermos, pizza, coffre extérieur, clé, carton de pizza, couteau suisse, Le Copain des Bois*
+*Accessoires clés : vélo Tern avec siège enfant, bâche bleue, bambous, ficelle, brasero, thermos, pizza, coffre extérieur, clé de Madame Labrosse, carton de pizza, couteau suisse.
 *Tournage : ordre à rebours — barbu → trimé → rasé*
