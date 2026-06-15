@@ -15,7 +15,7 @@
 
 **LÉA** : Tu as perdu tes clés ?
 
-**LUIGI** : Je les ai pas perdues. J'ai juste du mal à les trouver'.
+**LUIGI** : Je les ai pas perdues. J'ai juste du mal à les trouver.
 
 **LÉA** : Donc tu les as perdues.
 
@@ -31,7 +31,7 @@
 
 **LUIGI** : On va se débrouiller sans ces voleurs.
 
-*Léa le regarde. Pas convaincue. Il ouvre Uber Eats. Commande deux pizzas*
+*Léa le regarde. Pas convaincue. Luigi secoue la poignée une dernière fois. Donne un coup de pied dans la porte. Il ouvre Uber Eats. Commande deux pizzas*
 
 ---
 
@@ -45,17 +45,21 @@
 
 **LUIGI** : Ouais, tranquille.
 
-**LA MÈRE** : Léa a fait ses devoirs ?
+**LA MÈRE** *(voix, téléphone)* : Tu es dehors ?
+
+**LUIGI** : Oui, je prends l'air.
+
+**LA MÈRE** *(voix, téléphone)* : Léa a fait ses devoirs ?
 
 *Léa, bouche pleine de pizza, secoue la tête "non".*
 
 **LUIGI** : Oui, elle est dessus.
 
-**LA MÈRE** : Je peux lui parler ?
+**LA MÈRE** *(voix, téléphone)* : Tu me la passe ?
 
 **LUIGI** : Non, là elle prend sa douche.
 
-**LA MÈRE** : OK. Je rentre que dimanche soir, le séminaire démarre, je ne peux pas parler plus longtemps. Bisous à Léa.
+**LA MÈRE** *(voix, téléphone)* : OK. Je rentre que dimanche soir, le séminaire démarre, je ne peux pas parler plus longtemps. Bisous à Léa.
 
 **LUIGI** : Ouais. À dimanche, bon séminaire !
 
@@ -75,9 +79,9 @@
 
 *Lumière grise. Luigi se réveille. Le dos en vrac. Léa est déjà debout, fraîche, et le regarde de haut.*
 
-**LÉA** : On fait quoi ?
+**LÉA** : On fait quoi maintenant ?
 
-**LUIGI** : On va se faire un petit abri pour le weekend.
+**LUIGI** : On va prendre la situation en main. On se faire un petit abri pour le weekend.
 
 **LÉA** : Petit ? Non. On fait un truc bien.
 
