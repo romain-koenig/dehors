@@ -1,9 +1,9 @@
 # DEHORS
-### Court métrage — Script complet — version finale
+### Court métrage - Script complet - version finale
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — VENDREDI SOIR — 19H**
+**EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 19H**
 
 *Rue pavillonnaire calme. Un vélo Tern tourne au coin de la rue. LUIGI, 40 ans, costume débraillé, pédale. LÉA, 9 ans, est assise sur le siège arrière, sac à dos sur les épaules. Ils s'arrêtent devant la maison. Luigi descend, cale le vélo contre la façade.*
 
@@ -33,7 +33,7 @@
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — VENDREDI SOIR — 20H30**
+**EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 20H30**
 
 *Le livreur repart. Luigi et Léa sont assis sur le paillasson, un carton de pizza ouvert entre eux. Ils mangent, dos à la porte.*
 
@@ -59,13 +59,13 @@
 
 **LUIGI** : Parce que "elle mange une pizza dehors parce que j'ai perdu les clés", ça passait moins bien.
 
-*Plus tard — ils sont allongés en chien de fusil sur le paillasson, l'un contre l'autre, la veste de Luigi sur eux deux. Le Tern garé contre la façade, siège enfant vide. Nuit bleue.*
+*Plus tard - ils sont allongés en chien de fusil sur le paillasson, l'un contre l'autre, la veste de Luigi sur eux deux. Le Tern garé contre la façade, siège enfant vide. Nuit bleue.*
 
 *FONDU ENCHAÎNÉ*
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — SAMEDI MATIN**
+**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI MATIN**
 
 *Lumière grise. Luigi se réveille. Le dos en vrac. Léa est déjà debout, fraîche, et le regarde de haut.*
 
@@ -77,16 +77,16 @@
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — SAMEDI — MONTAGE KOH LANTA**
+**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI - MONTAGE KOH LANTA**
 
 *Musique d'aventure, légèrement épique et absurde. Plans courts, énergiques.*
 
-— Léa ouvre le coffre extérieur du jardin, en sort une bâche bleue, des bambous, de la ficelle.
-— Luigi plante les bambous dans la terre. Avec conviction.
-— Il tend la ficelle. Elle lâche.
-— Léa croise les bras, l'air dubitatif.
-— Il recommence. Elle lâche encore.
-— Léa lui prend la ficelle des mains. Fait un nœud propre. Ça tient.
+- Léa ouvre le coffre extérieur du jardin, en sort une bâche bleue, des bambous, de la ficelle.
+- Luigi plante les bambous dans la terre. Avec conviction.
+- Il tend la ficelle. Elle lâche.
+- Léa croise les bras, l'air dubitatif.
+- Il recommence. Elle lâche encore.
+- Léa lui prend la ficelle des mains. Fait un nœud propre. Ça tient.
 
 **LUIGI** : Où t'as appris ça ?
 
@@ -94,15 +94,15 @@
 
 **LUIGI** : ...Évidemment.
 
-— La bâche est tendue. Plan large : la cabane est bancale, asymétrique, mais debout.
-— Ils sortent le brasero du coffre, le posent sur le gravier.
-— Ils s'assoient tous les deux devant les premières flammes, thermos partagé. Ils sont chez eux.
+- La bâche est tendue. Plan large : la cabane est bancale, asymétrique, mais debout.
+- Ils sortent le brasero du coffre, le posent sur le gravier.
+- Ils s'assoient tous les deux devant les premières flammes, thermos partagé. Ils sont chez eux.
 
 *FONDU ENCHAÎNÉ*
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — SAMEDI SOIR**
+**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI SOIR**
 
 *Le brasero crépite. Léa est avachie contre la cabane, l'air de quelqu'un qui a épuisé toutes les ressources intérieures possibles.*
 
@@ -112,7 +112,7 @@
 
 *Il se lève, se racle la gorge, et présente le carton devant son visage comme un écran de télé.*
 
-*Plan — la caméra cadre Luigi, qui cadre son visage dans le rectangle de carton, derrière lui le brasero, derrière le brasero la porte de la maison. Un cadre dans un cadre dans un cadre.*
+*Plan - la caméra cadre Luigi, qui cadre son visage dans le rectangle de carton, derrière lui le brasero, derrière le brasero la porte de la maison. Un cadre dans un cadre dans un cadre.*
 
 **LUIGI** *(voix de présentateur)* : Bonsoir. Ce soir, en direct d'un jardin de banlieue, un homme et sa fille luttent pour leur survie.
 
@@ -132,7 +132,7 @@
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — DIMANCHE MATIN**
+**EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE MATIN**
 
 *Luigi sort de la cabane. Méconnaissable. Barbe de trois jours, cheveux en désordre, chemise froissée et sortie du pantalon. Il cligne des yeux comme un homme qui émerge de la forêt.*
 
@@ -156,26 +156,26 @@
 
 **LUIGI** : Putain. T'as raison.
 
-*Un temps. Ils se regardent. La même pensée traverse leurs deux visages au même instant — maman rentre ce soir.*
+*Un temps. Ils se regardent. La même pensée traverse leurs deux visages au même instant - maman rentre ce soir.*
 
 *Et le campement est là. Énorme. Accusateur.*
 
 ---
 
-**EXTÉRIEUR — DEVANT LA MAISON — DIMANCHE — MONTAGE PANIQUE**
+**EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE - MONTAGE PANIQUE**
 
 *Musique nerveuse, accélérée. Plans courts.*
 
-— Léa court sonner chez Madame Labrosse. Revient en agitant une clé, triomphante.
-— Ils démontent la cabane. La bâche s'effondre sur Luigi.
-— Ils arrachent les bambous. En jettent un par-dessus la haie.
-— Ils rentrent le brasero dans le coffre.
-— Ils ramassent les restes de pizza, le thermos, la veste.
-— Plan sur le jardin : nickel. Comme si rien ne s'était passé.
+- Léa court sonner chez Madame Labrosse. Revient en agitant une clé, triomphante.
+- Ils démontent la cabane. La bâche s'effondre sur Luigi.
+- Ils arrachent les bambous. En jettent un par-dessus la haie.
+- Ils rentrent le brasero dans le coffre.
+- Ils ramassent les restes de pizza, le thermos, la veste.
+- Plan sur le jardin : nickel. Comme si rien ne s'était passé.
 
 ---
 
-**INTÉRIEUR — SALON — DIMANCHE SOIR**
+**INTÉRIEUR - SALON - DIMANCHE SOIR**
 
 *Luigi, rasé de frais, chemise propre, est assis sur le canapé. Léa, douchée, cheveux peignés, est à côté de lui. Ils regardent la télé. Trop droits. Trop calmes.*
 
@@ -209,4 +209,4 @@
 *Personnages : Luigi, Léa (9 ans), La Mère (voix + présence)*
 *Décors : extérieur maison pavillonnaire + jardin, salon*
 *Accessoires clés : vélo Tern avec siège enfant, bâche bleue, bambous, ficelle, brasero, thermos, pizza, coffre extérieur, clé de Madame Labrosse, carton de pizza, couteau suisse.
-*Tournage : ordre à rebours — barbu → trimé → rasé*
+*Tournage : ordre à rebours - barbu → trimé → rasé*
