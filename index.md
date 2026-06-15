@@ -1,7 +1,7 @@
 # DEHORS
 ### Court métrage - Script complet
 
-**Dernier commit (AAAA-MM-jj hh:mm) :** ![GitHub last commit](https://img.shields.io/github/last-commit/romain-koenig/dehors?display_timestamp=committer&label=dernier%20commit)
+**Dernière mise à jour :** {{ site.time | date: "%Y-%m-%d %H:%M" }} (heure de Paris)
 
 ---
 
