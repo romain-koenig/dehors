@@ -13,15 +13,15 @@
 
 *Il pose sa sacoche par terre. Vide tout méthodiquement sur le paillasson. Stylos, ticket de caisse, chewing-gum, carte de fidélité... Pas de clés de maison.*
 
-**LÉA** : Tu les as perdues ?
+**LÉA** : Tu as perdu tes clés ?
 
-**LUIGI** : Je les ai pas perdues. Je les ai juste pas.
+**LUIGI** : Je les ai pas perdues. J'ai juste du mal à les trouver'.
 
 **LÉA** : Donc tu les as perdues.
 
 **LUIGI** : Je gère.
 
-*Il regarde la porte. La porte ne dit rien. Il sort son téléphone, cherche "serrurier urgence".*
+*Il regarde la porte. Il sort son téléphone, cherche "serrurier urgence".*
 
 ---
 
@@ -29,19 +29,19 @@
 
 *Il raccroche. Regarde la porte. Regarde Léa.*
 
-**LUIGI** : On va se débrouiller.
+**LUIGI** : On va se débrouiller sans ces voleurs.
 
-*Léa le regarde. Pas convaincue. Il ouvre Uber Eats.*
+*Léa le regarde. Pas convaincue. Il ouvre Uber Eats. Commande deux pizzas*
 
 ---
 
 **EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 20H30**
 
-*Le livreur repart. Luigi et Léa sont assis sur le paillasson, un carton de pizza ouvert entre eux. Ils mangent, dos à la porte.*
+*Luigi et Léa sont assis sur le paillasson, un carton de pizza ouvert entre eux. Ils mangent, dos à la porte.*
 
-*Le téléphone de Luigi vibre. Écran : 📱 MAMAN. Il met le haut-parleur, le pose sur le carton.*
+*Le téléphone de Luigi vibre. Écran : 📱 LA CHEF. Il met le haut-parleur.*
 
-**LA MÈRE** *(voix, téléphone)* : Vous êtes rentrés ?
+**LA MÈRE** *(voix, téléphone)* : Coucou, vous êtes bien rentrés ?
 
 **LUIGI** : Ouais, tranquille.
 
@@ -49,19 +49,23 @@
 
 *Léa, bouche pleine de pizza, secoue la tête "non".*
 
-**LUIGI** : Elle est dessus.
+**LUIGI** : Oui, elle est dessus.
 
-**LA MÈRE** : Bon. Je rentre que dimanche soir, le séminaire déborde. Bisous à Léa.
+**LA MÈRE** : Je peux lui parler ?
 
-**LUIGI** : Ouais. À dimanche.
+**LUIGI** : Non, là elle prend sa douche.
+
+**LA MÈRE** : OK. Je rentre que dimanche soir, le séminaire démarre, je ne peux pas parler plus longtemps. Bisous à Léa.
+
+**LUIGI** : Ouais. À dimanche, bon séminaire !
 
 *Il raccroche. Léa le fixe.*
 
-**LÉA** : Pourquoi t'as dit que je faisais mes devoirs ?
+**LÉA** : Pourquoi t'as dit que je faisais mes devoirs sous la douche ?
 
 **LUIGI** : Parce que "elle mange une pizza dehors parce que j'ai perdu les clés", ça passait moins bien.
 
-*Plus tard - ils sont allongés en chien de fusil sur le paillasson, l'un contre l'autre, la veste de Luigi sur eux deux. Le Tern garé contre la façade, siège enfant vide. Nuit bleue.*
+*Plus tard - ils sont assis dans l'encadrement de la porte fenêtre, l'un en face de l'autre, la veste de Luigi sur LÉA. Cadre dans le cadre. Zoom arrière. Le Tern garé contre la façade, siège enfant vide. Nuit bleue.*
 
 *FONDU ENCHAÎNÉ*
 
@@ -73,9 +77,9 @@
 
 **LÉA** : On fait quoi ?
 
-**LUIGI** : On va se faire un petit abri.
+**LUIGI** : On va se faire un petit abri pour le weekend.
 
-**LÉA** : Non. On fait un truc bien.
+**LÉA** : Petit ? Non. On fait un truc bien.
 
 ---
 
@@ -97,7 +101,7 @@
 **LUIGI** : ...Évidemment.
 
 - La bâche est tendue. Plan large : la cabane est bancale, asymétrique, mais debout.
-- Ils sortent le brasero du coffre, le posent sur le gravier.
+- Ils sortent le brasero, le posent sur la terrasse.
 - Ils s'assoient tous les deux devant les premières flammes, thermos partagé. Ils sont chez eux.
 
 *FONDU ENCHAÎNÉ*
@@ -114,11 +118,11 @@
 
 *Il se lève, se racle la gorge, et présente le carton devant son visage comme un écran de télé.*
 
-*Plan - la caméra cadre Luigi, qui cadre son visage dans le rectangle de carton, derrière lui le brasero, derrière le brasero la porte de la maison. Un cadre dans un cadre dans un cadre.*
+*Plan - la caméra cadre Luigi, qui cadre son visage dans le rectangle de carton. Cadre dans le cadre une nouvelle fois.*
 
 **LUIGI** *(voix de présentateur)* : Bonsoir. Ce soir, en direct d'un jardin de banlieue, un homme et sa fille luttent pour leur survie.
 
-**LÉA** : On a commandé une pizza.
+**LÉA** : Survie ? On a commandé des pizzas.
 
 **LUIGI** : ...luttent *héroïquement* pour leur survie. Les vivres sont épuisés. Le moral est au plus bas.
 
@@ -171,7 +175,7 @@
 - Léa court sonner chez Madame Labrosse. Revient en agitant une clé, triomphante.
 - Ils démontent la cabane. La bâche s'effondre sur Luigi.
 - Ils arrachent les bambous. En jettent un par-dessus la haie.
-- Ils rentrent le brasero dans le coffre.
+- Ils rangent le brasero.
 - Ils ramassent les restes de pizza, le thermos, la veste.
 - Plan sur le jardin : nickel. Comme si rien ne s'était passé.
 
@@ -187,7 +191,7 @@
 
 **LA MÈRE** *(enlevant son manteau)* : Ouais. Sauf Chantal, elle a dû repartir en cours de route. Son mari s'est enfermé dehors. *(elle lève les yeux au ciel)* Un grand bébé.
 
-**LUIGI** : Ah oui... Quel boulet.
+**LUIGI** : Ah oui... Quel boulet...
 
 *Silence.*
 
@@ -195,7 +199,7 @@
 
 *Leurs lèvres se pincent exactement au même moment.*
 
-*Side eye géné entre eux.*
+*Side eye géné entre eux.* 👀
 
 *Luigi et Léa regardent droit devant eux de nouveau.*
 
