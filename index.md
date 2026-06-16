@@ -1,156 +1,138 @@
 # DEHORS
-### Court métrage - Script complet
-
-**Dernière mise à jour :** {{ site.time | date: "%Y-%m-%d %H:%M" }}
+### Court métrage - Script complet - version finale
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 19H**
+**SCÈNE 1 - EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 19H**
 
-*Rue pavillonnaire calme. Un vélo Tern tourne au coin de la rue. LUIGI, 40 ans, costume débraillé, pédale. LÉA, 9 ans, est assise sur le siège arrière, sac à dos sur les épaules. Ils s'arrêtent devant la maison. Luigi descend, cale le vélo contre la façade.*
-
-*Il cherche ses clés. Poches de veste, poches de pantalon, sacoche. Re-poches de veste.*
-
-*Il pose sa sacoche par terre. Vide tout méthodiquement sur le paillasson. Stylos, ticket de caisse, chewing-gum, carte de fidélité... Pas de clés de maison.*
+*Quartier résidentiel. Luigi et Léa arrivent à vélo Tern. Une fois devant la porte, Luigi cherche ses clés.*
 
 **LÉA** : Tu as perdu tes clés ?
 
-**LUIGI** : Je les ai pas perdues. J'ai juste du mal à les trouver.
-
-**LÉA** : Donc tu les as perdues.
-
-**LUIGI** : Je gère.
-
-*Il regarde la porte. Il sort son téléphone, cherche "serrurier urgence".*
+**LUIGI** : Pfff, bien sûr que non.
 
 ---
 
-**LUIGI** *(téléphone)* : Bonsoir, je suis bloqué dehors avec ma fille... Oui... Oui... Combien ?... *(silence)* Quatre cents euros ? Pour ouvrir une porte ? Non mais à quatre cents euros je préfère encore... *(il cherche, ne trouve pas)* ...non. Non merci.
+**SCÈNE 2 - EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 19H10**
+
+**LUIGI** *(téléphone)* : Quatre cents euros ? pour ouvrir une porte ? Non mais à quatre cents euros je préfère encore... *(il cherche, ne trouve pas)* ...non. Au revoir.
 
 *Il raccroche. Regarde la porte. Regarde Léa.*
 
 **LUIGI** : On va se débrouiller sans ces voleurs.
 
-*Léa le regarde. Pas convaincue. Luigi secoue la poignée une dernière fois. Donne un coup de pied dans la porte. Il ouvre Uber Eats. Commande deux pizzas*
+---
+
+**SCÈNE 3 - EXTÉRIEUR - DEVANT LE PORTILLON - VENDREDI SOIR - 20H**
+
+*Luigi tient un carton de pizza. On entend un scooter qui s'éloigne.*
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - VENDREDI SOIR - 20H30**
+**SCÈNE 4 - EXTÉRIEUR - DEVANT LE PORTILLON - VENDREDI SOIR - 20H30**
 
-*Luigi et Léa sont assis sur le paillasson, un carton de pizza ouvert entre eux. Ils mangent, dos à la porte.*
+*Luigi et Léa sont assis dans l'encadrement de la porte fenêtre, l'un en face de l'autre. Cadre dans le cadre. Un carton de pizza ouvert entre eux.*
 
-*Le téléphone de Luigi vibre. Écran : 📱 LA CHEF. Il met le haut-parleur.*
+*Le téléphone de Luigi vibre. Il décroche, l'air nerveux.*
 
-**LA MÈRE** *(voix, téléphone)* : Coucou, vous êtes bien rentrés ?
+**LA MÈRE** *(visio)* : Coucou. Vous êtes rentrés ?
 
 **LUIGI** : Ouais, tranquille.
 
-**LA MÈRE** *(voix, téléphone)* : Tu es dehors ?
+**LA MÈRE** : T'es dehors ?
 
-**LUIGI** : Oui, je prends l'air.
+**LUIGI** : On prend l'air. Il fait beau.
 
-**LA MÈRE** *(voix, téléphone)* : Léa a fait ses devoirs ?
+**LA MÈRE** : Léa a fait ses devoirs ?
 
 *Léa, bouche pleine de pizza, secoue la tête "non".*
 
-**LUIGI** : Oui, elle est dessus.
+**LUIGI** : Elle est dessus.
 
-**LA MÈRE** *(voix, téléphone)* : Tu me la passe ?
+**LA MÈRE** : Vous faites quoi ce soir ?
 
-**LUIGI** : Non, là elle prend sa douche.
+**LUIGI** : On va regarder Koh-Lanta.
 
-**LA MÈRE** *(voix, téléphone)* : OK. Je rentre que dimanche soir, le séminaire démarre, je ne peux pas parler plus longtemps. Bisous à Léa.
+**LA MÈRE** *(pressée)* : Cool. Fais un bisou à Léa. Dimanche je rentre à 17h. Bisous.
 
-**LUIGI** : Ouais. À dimanche, bon séminaire !
+**LUIGI** : Bon séminaire. À dimanche.
 
-*Il raccroche. Léa le fixe.*
+*Elle raccroche. Luigi, gêné mais soulagé. Léa le fixe. Il évite son regard, mord dans sa pizza.*
 
-**LÉA** : Pourquoi t'as dit que je faisais mes devoirs sous la douche ?
+---
 
-**LUIGI** : Parce que "elle mange une pizza dehors parce que j'ai perdu les clés", ça passait moins bien.
+**SCÈNE 5 - EXTÉRIEUR - DEVANT LE PORTILLON - VENDREDI NUIT**
 
-*Plus tard - ils sont assis dans l'encadrement de la porte fenêtre, l'un en face de l'autre, la veste de Luigi sur LÉA. Cadre dans le cadre. Zoom arrière. Le Tern garé contre la façade, siège enfant vide. Nuit bleue.*
+*Plus tard. Ils dorment dans l'encadrement de la porte, l'un contre l'autre, la veste de Luigi sur Léa. Le Tern garé contre la façade, siège enfant vide.*
 
 *FONDU ENCHAÎNÉ*
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI MATIN**
+**SCÈNE 6 - EXTÉRIEUR - DEVANT LA MAISON - SAMEDI MATIN**
 
-*Lumière grise. Luigi se réveille. Le dos en vrac. Léa est déjà debout, fraîche, et le regarde de haut.*
+*Lumière grise. Luigi se réveille, le dos en vrac. Léa est déjà debout, fraîche. Elle s'essuie la bouche d'un revers de main.*
 
-**LÉA** : On fait quoi maintenant ?
+**LÉA** : Pas terrible la pizza au petit dèj. On fait quoi maintenant ?
 
-**LUIGI** : On va prendre la situation en main. On se faire un petit abri pour le weekend.
+*Luigi réfléchit et prend un air décidé.*
 
-**LÉA** : Petit ? Non. On fait un truc bien.
+**LUIGI** : On passe au camping 5 étoiles. Fais confiance à ton ingénieur de père.
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI - MONTAGE KOH LANTA**
+**SCÈNE 7 - EXTÉRIEUR - JARDIN - SAMEDI - MONTAGE KOH LANTA**
 
 *Musique d'aventure, légèrement épique et absurde. Plans courts, énergiques.*
 
-- Léa ouvre le coffre extérieur du jardin, en sort une bâche bleue, des bambous, de la ficelle.
-- Luigi plante les bambous dans la terre. Avec conviction.
+- Léa ouvre le coffre extérieur, en sort une bâche bleue, des bambous, de la ficelle. Les pose sur le sol devant Luigi.
+- Luigi prend l'air de celui qui avait prévu ça depuis le début.
+- Il plante les bambous dans la terre. Avec conviction.
 - Il tend la ficelle. Elle lâche.
-- Léa croise les bras, l'air dubitatif.
+- Léa croise les bras, dubitative.
 - Il recommence. Elle lâche encore.
-- Léa lui prend la ficelle des mains. Fait un nœud propre. Ça tient.
 
-**LUIGI** : Où t'as appris ça ?
+**LÉA** : Laisse-moi faire, papa. J'ai lu tout Copain des Bois.
 
-**LÉA** : Dans le livre que tu m'as offert pour mon anniversaire. Copain des Bois...
+*Elle s'y met. Un nœud propre. Ça tient.*
 
-**LUIGI** : ...Évidemment.
-
-- La bâche est tendue. Plan large : la cabane est bancale, asymétrique, mais debout.
-- Ils sortent le brasero, le posent sur la terrasse.
-- Ils s'assoient tous les deux devant les premières flammes, thermos partagé. Ils sont chez eux.
+*La bâche est tendue. Plan large : la cabane est bancale, asymétrique, mais debout. Le brasero allumé. Ils se regardent d'un air satisfait. High five ? Ils sont chez eux.*
 
 *FONDU ENCHAÎNÉ*
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - SAMEDI SOIR**
+**SCÈNE 8 - EXTÉRIEUR - DEVANT LA CABANE - SAMEDI SOIR**
 
-*Le brasero crépite. Léa est avachie contre la cabane, l'air de quelqu'un qui a épuisé toutes les ressources intérieures possibles.*
+*Le brasero crépite. Léa avachie contre la cabane.*
 
-**LÉA** : Je m'ennuie.
-
-*Luigi regarde le carton de pizza vide. Il le retourne. Sort son couteau suisse. Découpe laborieusement un rectangle au centre.*
-
-*Il se lève, se racle la gorge, et présente le carton devant son visage comme un écran de télé.*
-
-*Plan - la caméra cadre Luigi, qui cadre son visage dans le rectangle de carton. Cadre dans le cadre une nouvelle fois.*
-
-**LUIGI** *(voix de présentateur)* : Bonsoir. Ce soir, en direct d'un jardin de banlieue, un homme et sa fille luttent pour leur survie.
-
-**LÉA** : Survie ? On a commandé des pizzas.
-
-**LUIGI** : ...luttent *héroïquement* pour leur survie. Les vivres sont épuisés. Le moral est au plus bas.
-
-**LÉA** *(elle rit)* : Il est pas au plus bas.
-
-**LUIGI** : Il remonte. En direct. Grâce à la télé.
-
-*Léa rit vraiment.*
-
-*Il jette le carton dans le brasero. Ils regardent les flammes en silence.*
-
-*FONDU ENCHAÎNÉ*
+**LÉA** : J'ai faim.
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE MATIN**
+**SCÈNE 9 - EXTÉRIEUR - DEVANT LE PORTILLON - SAMEDI SOIR**
 
-*Luigi sort de la cabane. Méconnaissable. Barbe de trois jours, cheveux en désordre, chemise froissée et sortie du pantalon. Il cligne des yeux comme un homme qui émerge de la forêt.*
+*Luigi tient un carton de pizza. Un scooter s'éloigne.*
 
-*Léa sort derrière lui. Les cheveux en bataille, le visage un peu sale. Elle ressemble à son père maintenant.*
+---
+
+**SCÈNE 10 - INTÉRIEUR CABANE - SAMEDI SOIR**
+
+*Ils terminent l'énième pizza, un peu écœurés.*
+
+**LÉA** : On fait quoi maintenant ?
+
+*Elle se retourne. Luigi ronfle. Elle le couvre avec la veste.*
+
+---
+
+**SCÈNE 11 - EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE MATIN**
+
+*Luigi sort de la cabane. Méconnaissable. Barbe, cheveux en désordre, chemise froissée. Léa sort derrière lui. Elle ressemble à son père maintenant.*
 
 *Il va chercher le thermos. Le secoue. Vide. Il le repose avec une lenteur digne.*
 
-*Ils s'accroupissent tous les deux devant le brasero froid. Luigi souffle dessus. Rien.*
+*Ils s'accroupissent devant le brasero froid. Luigi souffle dessus. Rien.*
 
 *Léa regarde la cabane. Elle regarde son père. Elle regarde la maison d'à côté.*
 
@@ -166,36 +148,33 @@
 
 **LUIGI** : Putain. T'as raison.
 
-*Un temps. Ils se regardent. La même pensée traverse leurs deux visages au même instant - maman rentre ce soir.*
-
-*Et le campement est là. Énorme. Accusateur.*
+*Ils se regardent. La même pensée - maman rentre à 17h.*
 
 ---
 
-**EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE - MONTAGE PANIQUE**
+**SCÈNE 12 - EXTÉRIEUR - DEVANT LA MAISON - DIMANCHE MATIN - MONTAGE PANIQUE**
 
-*Musique nerveuse, accélérée. Plans courts.*
-
-- Léa court sonner chez Madame Labrosse. Revient en agitant une clé, triomphante.
-- Ils démontent la cabane. La bâche s'effondre sur Luigi.
-- Ils arrachent les bambous. En jettent un par-dessus la haie.
-- Ils rangent le brasero.
-- Ils ramassent les restes de pizza, le thermos, la veste.
-- Plan sur le jardin : nickel. Comme si rien ne s'était passé.
+*Léa revient de chez la voisine avec la clé, triomphante. Ils démontent tout en vitesse. La bâche s'effondre sur Luigi. Un bambou jeté par-dessus la haie. Le brasero dans le coffre.*
 
 ---
 
-**INTÉRIEUR - SALON - DIMANCHE SOIR**
+**SCÈNE 13 - EXTÉRIEUR - JARDIN - DIMANCHE MATIN**
 
-*Luigi, rasé de frais, chemise propre, est assis sur le canapé. Léa, douchée, cheveux peignés, est à côté de lui. Ils regardent la télé. Trop droits. Trop calmes.*
+*Plan sur le jardin : nickel. Comme si rien ne s'était passé.*
 
-*Bruit d'une voiture dehors. Clé dans la serrure. La porte s'ouvre. La mère entre, pose son sac.*
+---
 
-**LUIGI** : Ça s'est bien passé ?
+**SCÈNE 14 - INTÉRIEUR - SALON - DIMANCHE SOIR**
 
-**LA MÈRE** *(enlevant son manteau)* : Ouais. Sauf Chantal, elle a dû repartir en cours de route. Son mari s'est enfermé dehors. *(elle lève les yeux au ciel)* Un grand bébé.
+*Luigi et Léa sur le canapé, propres, reposés. La porte s'ouvre. La mère entre. Léa court la serrer.*
 
-**LUIGI** : Ah oui... Quel boulet...
+**LA MÈRE** : Ça a été votre weekend ?
+
+**LÉA** : Ouais, génial !
+
+**LA MÈRE** *(posant ses sacs)* : Chantal a dû repartir en cours de route d'ailleurs. Son mari s'est enfermé dehors. *(elle lève les yeux au ciel)* Un grand bébé.
+
+**LUIGI** : ...Quel boulet.
 
 *Silence.*
 
@@ -203,9 +182,7 @@
 
 *Leurs lèvres se pincent exactement au même moment.*
 
-*Side eye géné entre eux.* 👀
-
-*Luigi et Léa regardent droit devant eux de nouveau.*
+*Side eye.*
 
 **FONDU AU NOIR.**
 
@@ -215,8 +192,7 @@
 
 ---
 
-*Durée estimée : 3 minutes sans générique*
-*Personnages : Luigi, Léa (9 ans), La Mère (voix + présence)*
-*Décors : extérieur maison pavillonnaire + jardin, salon*
-*Accessoires clés : vélo Tern avec siège enfant, bâche bleue, bambous, ficelle, brasero, thermos, pizza, coffre extérieur, clé de Madame Labrosse, carton de pizza, couteau suisse.
+*Personnages : Luigi, Léa (9 ans), La Mère*
+*Décors : extérieur maison pavillonnaire + jardin + cabane + salon*
+*Accessoires clés : vélo Tern avec siège enfant, bâche bleue, bambous, ficelle, brasero, thermos, deux pizzas, coffre extérieur, clé de Madame Labrosse, Copain des Bois*
 *Tournage : ordre à rebours - barbu → trimé → rasé*
