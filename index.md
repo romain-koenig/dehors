@@ -172,6 +172,10 @@
 
 **LÉA** : Ouais, génial !
 
+---
+
+**Alternative 1**
+
 **LA MÈRE** *(posant ses sacs)* : Chantal a dû repartir en cours de route d'ailleurs. Son mari s'est enfermé dehors. *(elle lève les yeux au ciel)* Un grand bébé.
 
 **LUIGI** : ...Quel boulet.
@@ -185,6 +189,21 @@
 *Side eye.*
 
 **FONDU AU NOIR.**
+
+--- 
+
+**Alternative 2**
+
+**LA MÈRE** : Allez, soirée pizza ? 
+
+*Père et filles se regardent *
+
+**LUIGA ET LEA** *(ecoeurés)* : Nooooon
+
+
+--- 
+
+*Post-générique : La mère ouvre la poubelle de tri et voit une petite dizaine de cartons à pizza*
 
 ---
 
