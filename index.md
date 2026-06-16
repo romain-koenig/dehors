@@ -1,5 +1,5 @@
 # DEHORS
-### Court métrage - Script complet - version finale
+### Court métrage - Script complet - version finale (?) en attente de validation de la star
 
 ---
 
